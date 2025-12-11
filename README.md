@@ -208,10 +208,10 @@ Tested on:
 If you use VecP in your research, please cite:
 
 ```bibtex
-@misc{cappelli2024vecp,
+@misc{cappelli2025vecp,
   author = {Cappelli, David},
   title = {VecP: Hardware-Secured Alignment via Vector Physics},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/dcappelli123-ops/vecp-core}
 }
